@@ -7,7 +7,7 @@
 <img align="right" alt="Developer GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
 ### 🎓 Education
-<p align="center">
+<p>
 Cagayan State University - Sanchez Mira Campus
 <br>
 Bachelor of Science in Information Technology
@@ -29,9 +29,20 @@ Bachelor of Science in Information Technology
 <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>  
 </div>
 
-  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jquery.svg" alt="Visual Studio" width="40" height="40"/> </a></p>
-  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeigniter.svg" alt="Visual Studio" width="40" height="40"/> </a></p>
-  <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> </a>
-  <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> </a></p>
+<div align="start">
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jquery.svg" alt="jQuery" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  </a>
+</div>
+
 
 <hr>
